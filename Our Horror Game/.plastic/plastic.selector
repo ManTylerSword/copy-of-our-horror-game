@@ -1,4 +1,0 @@
-repository "Our Horror Game/Our Horror Game@18968316035621@cloud"
-  path "/"
-    br "/main"
-    co "/main"
